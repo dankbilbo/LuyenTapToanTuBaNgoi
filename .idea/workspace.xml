@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d6808be-6f07-4603-8220-3c80f4735e5a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/CheckMessage/FormMessage.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Thuc Hanh Nhung JS/NhungJS.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Thuc Hanh Nhung JS/ThucHanhNhung.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Thuc Hanh khai bao va su dung bien/KhaiBaoBien3.html" afterDir="false" />
@@ -29,6 +30,10 @@
       <change beforePath="$PROJECT_DIR$/../.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormNhapavab.html" beforeDir="false" afterPath="$PROJECT_DIR$/CheckBelowOver/FormNhapavab.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkBelowOver.js" beforeDir="false" afterPath="$PROJECT_DIR$/CheckBelowOver/checkBelowOver.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../[Thực hành] Hiển thị đầu ra.js" beforeDir="false" />
     </list>
@@ -46,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iXr3eGCBovmS2iNgadxVBbOiLE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -58,7 +63,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\Bài tập JS\LuyenTapToanTuBaNgoi\CheckBelowOver" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +79,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602064586298</updated>
-      <workItem from="1602064587384" duration="1101000" />
+      <workItem from="1602064587384" duration="1273000" />
+      <workItem from="1602074916064" duration="1414000" />
     </task>
     <servers />
   </component>
@@ -85,5 +97,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
